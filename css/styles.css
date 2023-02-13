@@ -1,7 +1,7 @@
 body {
     background-color: hsl(212, 45%, 89%);
     text-align: center;
-    margin: 10em;
+    margin: 9.4em;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
     font-family: "Outfit";
     color: hsl(218, 44%, 22%);
     margin: 20px auto 0 auto;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 
 p {
@@ -18,7 +18,7 @@ p {
     font-size: 0.95rem;
     color: hsl(220, 15%, 55%);
     margin: 20px auto 0 auto;
-    padding-bottom: 30px;
+    padding-bottom: 40px;
 }
 
 .attribution {
@@ -31,16 +31,17 @@ p {
 }
 
 .main_box {
-    border-radius: 25px;
-    width: 360px;
+    border-radius: 20px;
+    max-width: 320px;
     background-color: hsl(0, 0%, 100%);
     margin: auto;
 }
 
 .qr_code {
     border-radius: 10px;
-    width: 90%;
-    margin: 20px auto 0 auto;
+    height: 290px;
+    width: 290px;
+    margin: 15px auto 0 auto;
 }
 
 .footer {
